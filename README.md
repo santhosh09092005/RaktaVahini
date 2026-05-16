@@ -143,6 +143,4 @@ Internship Project – MindMatrix
 ## 📄 License
 This project is developed for educational and internship purposes.
 
-📄 License
 
-This project is developed for educational and internship purposes.
