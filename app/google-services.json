@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994488696307",
+    "project_id": "raktavahini-46c4b",
+    "storage_bucket": "raktavahini-46c4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994488696307:android:a60b178da835cb284e6686",
+        "android_client_info": {
+          "package_name": "com.example.raktavahini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByVVnh_LsBpfK6Y_9cyioeatuAa5RIBDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
